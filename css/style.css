@@ -14,11 +14,13 @@ html {
   gap: 1rem;
   align-items: center;
   overflow-x: hidden;
-  background-color: #F9F2ED; }
+  background-color: #F9F2ED;
+  padding: 2rem; }
 
 .heading-1 {
   font-size: 3rem;
-  color: #4C3A51; }
+  color: #4C3A51;
+  margin-bottom: 2rem; }
 
 .box {
   display: flex;
